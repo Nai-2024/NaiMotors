@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "471991358489",
+    "firebase_url": "https://naimotors-ef2fc-default-rtdb.firebaseio.com",
+    "project_id": "naimotors-ef2fc",
+    "storage_bucket": "naimotors-ef2fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471991358489:android:c510d551606b6e256b4688",
+        "android_client_info": {
+          "package_name": "com.dinsalehy.naimotorss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQ8Vf-OjPj0Jmht7mE6kZQpdjeCszbVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
