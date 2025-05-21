@@ -28,7 +28,6 @@ Watch the app in action here: [Demo Video] (https://drive.google.com/file/d/1Dbl
 - **OOP Concepts**: Applied Object-Oriented Programming principles for maintainable and reusable code.
 - **Build System**: Gradle
 - **Dependency Injection**: Hilt
-- **Other Libraries**: AndroidX libraries (RecyclerView, LiveData, etc.)
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
