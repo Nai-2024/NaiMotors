@@ -2,7 +2,7 @@
 Android app for car listings, service scheduling, and dealership communication — developed using Jetpack Compose, MVVM, and Kotlin Coroutines.
 
 ## Demo Video 📹
-Watch the app in action here: [Demo Video] (https://drive.google.com/file/d/1DblL1dwVmU_ihXy28kvSCsqLjM9TyMOS/view?usp=drive_link)
+Watch the app in action here: [Demo Video] (https://drive.google.com/file/d/1JbpECFqLlKXkl53w6xPNBWxUai5YO8-c/view?usp=drive_link)
 
 ## Key Features ✨
 - Browse new and used cars in real-time.
